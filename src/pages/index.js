@@ -22,13 +22,13 @@ const Home = () => {
       <ServiceOne />
       <CtaThree />
       <CtaTwo />
-      <PricingOne />
-      <TestimonialsOne />
+      {/* <PricingOne />
+      <TestimonialsOne /> */}
 
-      <BrandOneWithNoSSR />
+      {/* <BrandOneWithNoSSR />
       <FunFactOne />
       <BlogOne totalBlogs={2} isScrollActive />
-      <CtaOne isScrollActive />
+      <CtaOne isScrollActive /> */}
     </Layout>
   );
 };
